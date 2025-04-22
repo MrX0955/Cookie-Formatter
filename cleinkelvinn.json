@@ -1,0 +1,56 @@
+[
+    {
+        "domain": ".example.com",
+        "expirationDate": 1775322283,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "cookiename",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"asdasdadasda31313131asdasdasdas=\""
+    },
+    {
+        "domain": ".example.com",
+        "expirationDate": 1776874226.61223,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cookiename",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"df7/asdasdasdas3131asdasasdas=\""
+    }
+]
+[
+    {
+        "domain": ".random.com",
+        "expirationDate": 1775322283,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "cookiename",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"asdasdadasdaasdasdasdas=\""
+    },
+    {
+        "domain": ".random.com",
+        "expirationDate": 1776874226.61223,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cookiename",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"df7/asdasdasdasasdasasdas=\""
+    }
+]
