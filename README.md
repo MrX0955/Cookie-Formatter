@@ -21,11 +21,6 @@ Cookie Formatter is a simple Python tool that converts cookies exported from bro
    python Cookie_Formatter.py
    ```
 
-3. When prompted, enter the name of your cookie file:
-   ```
-   Cookie File Name: cleinkelvinn.json
-   ```
-
 4. Once the process is complete, the formatted cookies will be saved to the `cookies.txt` file.
 
 ## 📋 Input File Format
