@@ -12,7 +12,7 @@ Cookie Formatter is a simple Python tool that converts cookies exported from bro
 ## 🚀 Usage
 1. Clone the project:
    ```
-   git clone https://github.com/username/Cookie_Formatter.git
+   git clone https://github.com/MrX0955/Cookie_Formatter.git
    cd Cookie_Formatter
    ```
 
@@ -63,3 +63,6 @@ A separate line is created for each JSON array.
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE). 
+
+## ⚠️ DISCLAIMER 
+**This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.**
